@@ -2,7 +2,7 @@
 
 **Due to size of Data set i just left code here**
 
-## Some out puts :
+## Some outputs :
 
 ### with 5 epoch : 
 ![Screenshot 2023-09-07 230413](https://github.com/m-amin-sanati/Image_segmentarion_unet/assets/61932943/b0f6daaa-03b8-4921-932f-df1d17b637b6)
